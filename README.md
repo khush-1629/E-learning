@@ -93,6 +93,9 @@ PASSWORD=your_password
 ## Contributing
 Contributions are welcome! If you'd like to contribute, fork the repository, make your changes, and submit a pull request.
 
+## Note
+- Loading may take some time due to using free sevice on Render Platform to deploy the web application.
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
