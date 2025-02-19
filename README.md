@@ -76,7 +76,8 @@ PASSWORD=your_password
 - **Admin Panel**(Manage courses, users and payments)
 - API endpoints with Express  
 - MongoDB database integration  
-- Responsive UI  
+- Responsive UI
+- **(Note)**- To get the access of admin dashboard , need to change the role of user through database because by default you can register as user only.
 
 ## Backend Deployment
 - Deploy using **Render, Railway or Vercel**.
@@ -94,3 +95,4 @@ Contributions are welcome! If you'd like to contribute, fork the repository, mak
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
